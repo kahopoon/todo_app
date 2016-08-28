@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:kahopoon/administrate.git
+  remote: git://github.com/kahopoon/administrate.git
   revision: 0e40283912b599663d764336ef177f4ba9443764
   specs:
     administrate (0.2.2)
