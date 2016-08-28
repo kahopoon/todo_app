@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'bourbon'
-gem 'administrate'
+gem 'administrate', :git => 'git@github.com:kahopoon/administrate.git'
 gem 'rails_12factor', group: :production
 
 group :development, :test do
