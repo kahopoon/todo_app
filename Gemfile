@@ -34,6 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bourbon'
 gem 'administrate', :git => 'git://github.com/kahopoon/administrate.git'
+gem 'bootstrap', '~> 4.0.0.alpha3.1'
 gem 'rails_12factor', group: :production
 
 group :development, :test do
